@@ -28,7 +28,7 @@ This project is a web application hosted using **Docker** and **Kubernetes**, wi
 
 ## ⚙️ **Tech Stack**
 
-- **Frontend**: Your front-end stack (React, Angular, etc.)
+- **Frontend**: Your front-end stack (React)
 - **Backend**: Node.js/Express
 - **Database**: MongoDB with Mongo Express
 - **Containers**: Docker
